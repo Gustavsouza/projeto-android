@@ -101,7 +101,6 @@ header > p{
     padding-right: 35px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.342) ;
     padding-bottom: 20px;
-
 }
 
 main{
@@ -116,6 +115,12 @@ main{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
+/*#men{
+    position: fixed;
+    background-attachment: fixed;
+    margin-bottom: 50%;
+    padding-bottom: 50%;
+}*/
 main > article> h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
